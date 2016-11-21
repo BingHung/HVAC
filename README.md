@@ -7,7 +7,7 @@ In my case -> default (10 kW air-con development)
 
 The reference is shown below :
 
-Condensor Reference
+#Condensor Reference
 
 1.Epsilon-NTU method (Superheated / Saturation / Subcooled)
 
@@ -27,7 +27,7 @@ Condensor Reference
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Expansion Valve Reference
+#Expansion Valve Reference
 
 1.McAdams(Two Phase Model)
 
@@ -39,7 +39,7 @@ Expansion Valve Reference
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Evaporator Reference
+#Evaporator Reference
 
 1.LMHD method => Driving potential for combined heat and mass transfer (Lewis #) /conditioning line 
 
